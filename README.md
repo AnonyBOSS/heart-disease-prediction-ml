@@ -33,6 +33,25 @@ The study covers:
 - Marwan Wagih Mohammed 
 
 ---
+## 👥 Team Member Contributions
+
+### 🔹 Data Preprocessing & Outlier Handling
+- Seif Amjad Sobeih Heidar
+- Abdelrahman Wael Maher
+- Ahmed Hossam Abdallah
+
+### 🔹 Visualizations & EDA
+- Youssef Ahmed Farouk
+- Youssef Farid Haddad
+- Marwan Wagih Mohammed
+
+### 🔹 Machine Learning Models
+- Random Forest: Seif Amjad Sobeih Heidar
+- Logistic Regression: Abdelrahman Wael Maher
+- SVM: Ahmed Hossam Abdallah
+- Naive Bayes: Youssef Ahmed Farouk
+- Decision Tree: Youssef Farid Haddad
+- KNN Classifier: Marwan Wagih Mohammed
 
 ## 📁 Repository Structure
 
