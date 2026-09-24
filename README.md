@@ -3,8 +3,7 @@
 This repository presents a comprehensive machine learning study focused on predicting **heart disease** using clinical diagnostic data.  
 The project includes **end‑to‑end preprocessing, EDA, outlier detection, six ML models, evaluation, and cross‑validation**.
 
-A full technical report is available in:  
-`reports/data-mining-project.pdf`
+A full technical report is available in [`report/data mining project.pdf`](report/data%20mining%20project.pdf).
 
 ---
 
@@ -64,8 +63,8 @@ heart-disease-prediction-ml/
 ├── data/
 │   └── heart.csv
 │
-├── reports/
-    └── data-mining-project.pdf
+└── report/
+    └── data mining project.pdf
 
 ```
 
@@ -207,10 +206,6 @@ Ensure `data/heart.csv` is present in the correct folder.
 
 ## 📄 Full Report
 
-For full methodology, results, and visualizations:
-
-```
-reports/data-mining-project.pdf
-```
+For full methodology, results, and visualizations, see [`report/data mining project.pdf`](report/data%20mining%20project.pdf).
 
 
